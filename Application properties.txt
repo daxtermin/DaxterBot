@@ -1,0 +1,12 @@
+
+application_id=932190267866505237
+
+public_key=9fe2ae26b9e3e99cbe33b61de94502d4429df34b5917b90f9b7ed32f74da3b58
+
+client_id=932190267866505237
+
+client_secret=0I30G6G1qDCsgvp355WeEf_9MqAKPZ0q
+
+oauth_url=https://discord.com/api/oauth2/authorize?client_id=932190267866505237&permissions=534723947584&scope=bot
+
+bot_permission_integer=534723947584
