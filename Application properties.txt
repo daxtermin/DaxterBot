@@ -11,4 +11,4 @@ oauth_url=https://discord.com/api/oauth2/authorize?client_id=932190267866505237&
 
 bot_permission_integer=534723947584
 
-Test=1234
+Test=12345678
